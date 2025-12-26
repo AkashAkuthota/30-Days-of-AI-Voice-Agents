@@ -146,8 +146,6 @@ Open your web browser and navigate to `http://127.0.0.1:8000` to access the conv
 
 - Add a `.gitignore` file to exclude files like `.DS_Store`, `__pycache__`, and `.env` to keep the repo clean.
 
-- Consider adding a brief project description and usage example to the README for clarity.
-
 - Include information about the `services/` directory to highlight modular code design.
 
 - Always keep API keys secure; do not commit secrets to the repository.
